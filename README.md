@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="images/cat2.png" align="center" width="160">
+  <img src="images/cat1.jpeg" align="center" width="160">
   <h1 align="center">Giurlani</h1>
   <p align="center">Welcome to my GitHub! You can find a collections of things I'm currently researching. </p>
 </div>
-<div align="center">
+<div align="/center">
 
 
 
