@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="30" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <img src="jez5730.jpeg" align="center" width="160">
   <h1 align="center">Giurlani</h1>
-  <p align="center">Welcome to my GitHub! You can find a collections of things I like to tinker </p>
+  <p align="center">Welcome to my GitHub! You can find a collections of things I'm currently researching. </p>
 </div>
 <div align="center">
 
